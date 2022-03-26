@@ -1,0 +1,2 @@
+2;SE140002;Tran Thanh Binh;6;Gam-COVID-Vac;DONG THAP;09/03/2021;QUANG NAM;09/05/2021
+3;SE160005;Truong Tan Phat;4;AstraZeneca;LONG AN;10/03/2021;null;null
